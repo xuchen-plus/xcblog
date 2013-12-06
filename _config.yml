@@ -1,1 +1,6 @@
+name: xcblog
+description: my blog
+
+paginate: 5
+url: "http://xuchen-plus.github.io"
 baseurl: /xcblog
